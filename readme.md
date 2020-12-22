@@ -1,5 +1,5 @@
 # Quiz app with Local Storage
 
-- local storage, questions are stored with local storage
-- admin can edit, add and delete questions
-- amin name = `hulya karakaya`
+- questions are stored with local storage
+- admin can edit, delete questions and add new questions
+- admin name = `hulya karakaya`
